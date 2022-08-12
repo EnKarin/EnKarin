@@ -1,6 +1,7 @@
 <h1>
   <div align="center"> Hi there :octocat: </div>
 </h1>   
+<div align="center">I'm Karina :moon:</div>
 <div align="center">A novice Java backend developer from Russia</div>
 
 ### **CODING STATS**
