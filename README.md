@@ -43,6 +43,8 @@
 - 👨‍💻 **Java Backend Intern**\
 :date: 2021 - 2022\
 :round_pushpin: **Financial Technology Center, SHIFT** - Novosibirsk, Russia
+
+---
   
 ## Skills
 
@@ -58,13 +60,18 @@
   
 ### LeetCode
  
- [![](https://badges.peiyuan.ch/leetcode/enkarin/name)](https://leetcode.com/enkarin)
+[![](https://badges.peiyuan.ch/leetcode/enkarin/name)](https://leetcode.com/enkarin)
  
 **Accepted Rate**
   
 ![](https://badges.peiyuan.ch/leetcode/enkarin/rate?difficulty=easy)
 ![](https://badges.peiyuan.ch/leetcode/enkarin/rate?difficulty=medium)
 ![](https://badges.peiyuan.ch/leetcode/enkarin/rate?difficulty=hard)
+
+---
+### Questionnaire
+
+[![Hh Badge](https://img.shields.io/badge/-HeadHunter-0088cc?style=flat&logo=Hypothesis&logoColor=white&color=red)](https://novosibirsk.hh.ru/resume/4bbba9e0ff0881cce20039ed1f384b6c4d4944)
 
 </details>
 
