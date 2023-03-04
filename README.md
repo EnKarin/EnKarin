@@ -32,7 +32,7 @@
 <img align="right" src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="30" height="30"/> 
 <img align="right" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="30" height="30"/>
 
-- 👨‍💻 **Java Backend Intern**\
+- 👨‍💻 **Java Backend Junior**\
 :date: 2022 - moment\
 :round_pushpin: **Banki.ru** - Moscow, Russia
   
