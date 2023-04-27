@@ -25,7 +25,8 @@
 :date: 2018 - 2022\
 :round_pushpin: **Siberian State University of Telecommunications and Informatics** - Novosibirsk, Russia
 
-## Experience
+## Experience 
+*1 year 6 months*
 
 <img align="right" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="30" height="30"/>
 <img align="right" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="30" height="30"/> 
@@ -33,7 +34,7 @@
 <img align="right" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="30" height="30"/>
 
 - 👨‍💻 **Java Backend Junior**\
-:date: 2022 - moment\
+:date: June 2022 - moment\
 :round_pushpin: **Banki.ru** - Moscow, Russia
   
 <img align="right" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="30" height="30"/>
@@ -42,7 +43,7 @@
 <img align="right" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="30" height="30"/>
 
 - 👨‍💻 **Java Backend Intern**\
-:date: 2021 - 2022\
+:date: November 2021 - June 2022\
 :round_pushpin: **Financial Technology Center, SHIFT** - Novosibirsk, Russia
 
 ---
