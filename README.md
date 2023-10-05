@@ -16,6 +16,8 @@
   :email: How to reach me: <a href='mailto:karina.elagina2013@yandex.ru'>karina.elagina2013@yandex.ru</a>
 </p>
 
+[![An image of @enkarin's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/enkarin)](https://holopin.io/@enkarin)
+
 <details>
   <summary> <h2>:office: Resume</h2></summary>
 
@@ -26,7 +28,7 @@
 :round_pushpin: **Siberian State University of Telecommunications and Informatics** - Novosibirsk, Russia
 
 ## Experience 
-*1 year 6 months*
+*1 year 11 months*
 
 <img align="right" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="30" height="30"/>
 <img align="right" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="30" height="30"/> 
