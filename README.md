@@ -28,7 +28,14 @@
 :round_pushpin: **Siberian State University of Telecommunications and Informatics** - Novosibirsk, Russia
 
 ## Experience 
-*1 year 11 months*
+*2 year 10 months*
+<img align="right" src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="30" height="30"/> 
+<img align="right" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="30" height="30"/>
+
+
+- 👨‍💻 **Lead Engineer**\
+:date: November 2023 - moment\
+:round_pushpin: **Sber** - Novosibirsk, Russia
 
 <img align="right" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="30" height="30"/>
 <img align="right" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="30" height="30"/> 
@@ -36,7 +43,7 @@
 <img align="right" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="30" height="30"/>
 
 - 👨‍💻 **Java Backend Junior**\
-:date: June 2022 - moment\
+:date: June 2022 - November 2023\
 :round_pushpin: **Banki.ru** - Moscow, Russia
   
 <img align="right" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="30" height="30"/>
